@@ -8,12 +8,12 @@ Here is a way for you to neatly note what you have to do in an organized way!
 - Open the `seed.sql` file
 - Write down your tasks and due-dates in the `INSERT INTO` lines
 - After you insert your tasks, you run
-```py
+```
 psql -d todo-list < seed.sql   
 ```
 
 &
-```py
+```
 psql -d todo-list < schema.sql
 ```
 
