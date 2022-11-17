@@ -1,4 +1,4 @@
-# PeeWee-9A
+# ToDo-List-Terminal
 
 Here is a way for you to neatly note what you have to do in an organized way!
 
